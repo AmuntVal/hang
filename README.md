@@ -1,2 +1,2 @@
 # hang
-see the eventual result in Build/IMDT.exe
+see the eventual result in Built/IMDT.exe
